@@ -10,6 +10,7 @@ In my time here, I have learnt:
 - R, Python
 - Optimization using excel and Gurobi/Python
 - Hadoop, Spark
+- Tableau, Flourish
 - Supervised and Unsupervised learning
 
 In my free time, I love to:
